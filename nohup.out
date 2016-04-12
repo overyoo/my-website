@@ -1,0 +1,6 @@
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EPERM: operation not permitted, read
+    at Error (native)
